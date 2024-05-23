@@ -2,6 +2,13 @@ package org.example;
 
 public class Calculator {
 
+    /**
+     * add
+     *
+     * @param a
+     * @param b
+     * @return
+     */
     public double add(double a, double b){
         return a + b;
     }
